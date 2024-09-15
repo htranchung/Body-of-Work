@@ -54,7 +54,11 @@ In Project 1, I implemented data fetching using a fetch request and handled some
 - Successfully integrated and displayed data from multiple APIs using DOM manipulation techniques for dynamic content rendering and applied CSS for responsive styling. This work improved both the functionality and aesthetics of the application, ensuring a seamless user experience across devices.
 
     - https://github.com/SpectralRaiden/Pupper-Inspiration/pull/38 
-    - https://github.com/SpectralRaiden/Pupper-Inspiration/pull/45 
+    - https://github.com/SpectralRaiden/Pupper-Inspiration/pull/45
+  
+- I developed a modal that allows users to input information. Upon submission, the modal captures the input and outputs the data to the console using console.log. Additionally, if a user clicks outside of the modal, it exits and closes the modal.
+
+    - https://github.com/SpectralRaiden/Pupper-Inspiration/pull/28 
     - https://github.com/SpectralRaiden/Pupper-Inspiration/pull/55 
 
 
